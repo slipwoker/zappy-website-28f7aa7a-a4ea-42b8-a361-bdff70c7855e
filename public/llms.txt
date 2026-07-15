@@ -7,37 +7,37 @@
 ## Pages
 
 ### דף הבית
-https://-28f7aa7a.zappy5.app
+https://example.com
 גלו עולם של בידור וקולנוע בנופים סינמה. הקרנות סרטים מרהיבות, אווירה קסומה וחוויה בלתי נשכחת לכל המשפחה. הצטרפו אלינו למסע קסום על המסך הגדול!
 
 ### סרטים
-https://-28f7aa7a.zappy5.app/movies
+https://example.com/movies
 מחפשים cinema hindi movie או שובר קופות הוליוודי? לוח הקרנות מעודכן, טריילרים מלהיבים וכל מה שחם בעולם הבידור מחכה לכם. בחרו סרט ובואו לחוות קסם!
 
 ### אודות
-https://-28f7aa7a.zappy5.app/about
+https://example.com/about
 הכירו את התשוקה לקולנוע שמאחורי נופים סינמה. מרכז בידור בסגנון silvercity newmarket cinemas and xscape entertainment centre, עם חזון ליצור רגעים קסומים. בואו להיות חלק מהסיפור!
 
 ### צור קשר
-https://-28f7aa7a.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על הקרנות, כרטיסים או אירועים פרטיים? צרו קשר עם נופים סינמה, מרכז ה-Entertainment / Cinema המוביל. אנחנו כאן כדי להפוך כל פנייה לחוויה מושלמת!
 
 ### תודה רבה - פנייתך התקבלה | נופים סינמה
-https://-28f7aa7a.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה שפנית לנופים סינמה. פנייתך התקבלה במערכת ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-28f7aa7a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-28f7aa7a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-28f7aa7a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-28f7aa7a.zappy5.app/contact
-- Endpoint: https://-28f7aa7a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Entertainment / Cinema
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-28f7aa7a.zappy5.app/sitemap.xml
-- Robots: https://-28f7aa7a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-28f7aa7a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
