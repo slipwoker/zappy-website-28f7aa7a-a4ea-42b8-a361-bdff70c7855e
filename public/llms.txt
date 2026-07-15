@@ -1,0 +1,83 @@
+# נופים סינמה — Generative Engine Optimization Map
+
+> A cinema or movie theater business looking to establish an online presence. The brand revolves around the world of film, entertainment, and the cinematic experience.
+
+---
+
+## Pages
+
+### דף הבית
+https://-28f7aa7a.zappy5.app
+גלו עולם של בידור וקולנוע בנופים סינמה. הקרנות סרטים מרהיבות, אווירה קסומה וחוויה בלתי נשכחת לכל המשפחה. הצטרפו אלינו למסע קסום על המסך הגדול!
+
+### סרטים
+https://-28f7aa7a.zappy5.app/movies
+מחפשים cinema hindi movie או שובר קופות הוליוודי? לוח הקרנות מעודכן, טריילרים מלהיבים וכל מה שחם בעולם הבידור מחכה לכם. בחרו סרט ובואו לחוות קסם!
+
+### אודות
+https://-28f7aa7a.zappy5.app/about
+הכירו את התשוקה לקולנוע שמאחורי נופים סינמה. מרכז בידור בסגנון silvercity newmarket cinemas and xscape entertainment centre, עם חזון ליצור רגעים קסומים. בואו להיות חלק מהסיפור!
+
+### צור קשר
+https://-28f7aa7a.zappy5.app/contact
+יש לכם שאלה על הקרנות, כרטיסים או אירועים פרטיים? צרו קשר עם נופים סינמה, מרכז ה-Entertainment / Cinema המוביל. אנחנו כאן כדי להפוך כל פנייה לחוויה מושלמת!
+
+### תודה רבה - פנייתך התקבלה | נופים סינמה
+https://-28f7aa7a.zappy5.app/thank-you
+תודה רבה שפנית לנופים סינמה. פנייתך התקבלה במערכת ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-28f7aa7a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-28f7aa7a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-28f7aa7a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-28f7aa7a.zappy5.app/contact
+- Endpoint: https://-28f7aa7a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `subject` (select)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נופים סינמה
+A cinema or movie theater business looking to establish an online presence. The brand revolves around the world of film, entertainment, and the cinematic experience.
+
+## Target Audience
+- משפחות אוהבות קולנוע
+- זוגות צעירים
+- סטודנטים לקולנוע
+
+## Industry
+Entertainment / Cinema
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-28f7aa7a.zappy5.app/sitemap.xml
+- Robots: https://-28f7aa7a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-28f7aa7a.zappy5.app/llms-full.txt
